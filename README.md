@@ -25,7 +25,7 @@ I have previous experience at a startup using Ruby on Rails, CSS, HTML, which in
 
 ### :mailbox:How to reach me :
 
- [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brianarnold804/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brianarnold804/)
 
 <!--
 **barnold804/barnold804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
