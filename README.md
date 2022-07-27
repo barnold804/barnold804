@@ -2,7 +2,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer with a background in Geographic Information Science who also happens to be an enthusiast of computers, drones, photography, biking, kayaking, and running. 
 
-I have previous experience at a startup using Ruby on Rails, CSS, HTML, which included Test Driven Development and Agile Software Developement.
+I have previous experience at a startup using Ruby on Rails, CSS, HTML, which included Test Driven Development and Agile Software Developement. Additionally, I recently graduated from Flatiron School's Full Stack Software Enginnering coursem which included Ruby, Ruby on Rails, JavaScript, and React.
 
 ---
 
